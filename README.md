@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.Net Core Web Api Projects.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkancetinalp](https://github.com/furkancetinalp)
 
