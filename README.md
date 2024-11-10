@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Microservices.**
 
-- 🌱 I’m currently building projects on **React and Rust**
+- 🌱 I’m currently building projects on **.Net Core, Vue and React **
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkancetinalp](https://github.com/furkancetinalp)
 
